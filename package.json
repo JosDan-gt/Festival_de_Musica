@@ -1,0 +1,26 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosDan-gt/Festival_de_Musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Jose Aldana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosDan-gt/Festival_de_Musica/issues"
+  },
+  "homepage": "https://github.com/JosDan-gt/Festival_de_Musica#readme",
+  "devDependencies": {
+    "sass": "^1.68.0"
+  }
+}
